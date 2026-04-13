@@ -1,0 +1,8 @@
+HTTP/2 200 
+server: nginx
+date: Mon, 13 Apr 2026 08:48:05 GMT
+content-type: application/json
+content-length: 740
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubDomains
+
